@@ -9,6 +9,9 @@ body{
   width: 100%;
   top: 0px;
 }
+#titulo{
+  margin-top: 70px;
+}
 #formulario-pergunta{
   margin-top: 90px;
 }
